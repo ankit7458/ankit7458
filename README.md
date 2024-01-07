@@ -1,4 +1,4 @@
-![](https://github.com/ankit7458/ankit7458/blob/main/github2.png)
+
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
 <h3 align="center">A passionate MERN stack novitiate and Software development tester from India</h3>
 
